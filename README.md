@@ -909,6 +909,15 @@ Certainly! Here are some more project ideas at a moderate level of difficulty, p
   - Allow HTML sitemap preview and manual edits.
   - Add SEO suggestions and broken link checker.
 
+### 101. Crowdfunding Platform (Kickstarter clone)
+
+- **Description**: A web platform where users create, browse, and back crowdfunding campaigns with secure payments and real-time funding progress.
+- **Sub-Projects**:
+  - Signup/login and manage user profiles
+  - Create, edit, and display crowdfunding campaigns with goals and deadlines
+  - Pledge funds securely using Stripe integration and track funding progress
+  - Enable backers and creators to interact via comments and campaign updates
+
 ---
 
 Feel free to choose any of these project ideas to enhance your skills in MERN stack development. Remember to focus on understanding the core concepts and break down the tasks into manageable sub-problems. 🚀 Happy coding! 🌟
